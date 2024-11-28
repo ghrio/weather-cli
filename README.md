@@ -4,17 +4,17 @@ Weather-CLI is a sleek and simple command-line tool that delivers accurate and r
 ⚠️ Documentation is AI-Generated and should be revised ⚠️
 # Feature
 
-🌍 Global Coverage: Access weather data for cities and regions worldwide.
-⏱️ Real-Time Updates: Get up-to-the-minute weather information.
-🎨 Beautiful TUI: An optional interactive interface powered by Bubble Tea and styled with Lipgloss.
-🌀 Weather Details:
+* 🌍 Global Coverage: Access weather data for cities and regions worldwide.
+* ⏱️ Real-Time Updates: Get up-to-the-minute weather information.
+* 🎨 Beautiful TUI: An optional interactive interface powered by Bubble Tea and styled with Lipgloss.
+* 🌀 Weather Details:
         Current temperature
         Wind speed and direction
         Humidity levels
         Detailed forecasts
-🔧 Customizable: Set your default location, units (Celsius/Fahrenheit), and more.
- 📦 Lightweight: Built with Go for fast and efficient performance.
-🔑 API Integration: Uses trusted APIs like OpenWeatherMap or WeatherAPI for reliable data.
+* 🔧 Customizable: Set your default location, units (Celsius/Fahrenheit), and more.
+* 📦 Lightweight: Built with Go for fast and efficient performance.
+* 🔑 API Integration: Uses trusted APIs like OpenWeatherMap or WeatherAPI for reliable data.
 
 # Installation
 coming soon
