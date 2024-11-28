@@ -27,12 +27,14 @@ coming soon
 
 ## Features
 - [ ] Basic weather-CLI functionality
+- [ ] TUI interface
+- [ ] Customizable settings
 - [ ] Add support for multiple weather APIs
 
 ## Documentation
 - [ ] Add installation instructions
 - [ ] Add TUI usage instructions
-- [ ] Add usage instructions
+- [ ] Add cli usage instructions
 
 # License
 
